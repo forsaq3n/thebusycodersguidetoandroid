@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plugbot</string>
+    <string name="connect_usb">Please connect the phone to the HU and wait for 15 seconds. Andoid Auto Should appear before the 15 seconds expire."\n""\n"
+     </string>
+</resources>
