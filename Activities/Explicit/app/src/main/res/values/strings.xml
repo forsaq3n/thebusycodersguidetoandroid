@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="hello">I am the first activity!</string>
+    <string name="app_name">Explicit Intents Demo</string>
+    <string name="other">I am the other activity!</string>
+
+</resources>
